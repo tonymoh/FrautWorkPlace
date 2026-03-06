@@ -8,8 +8,8 @@ This repository is a showcase of the app's UI and features.
 
 ### 🤖 Android Phones
 <p align="center">
-  <img src="Screenshots/f4w_android.png" width="320"/>
-  <img src="Screenshots/f4w_android2.png" width="320"/>
+  <img src="Screenshots/f4w_android.png" height="500"/>
+  <img src="Screenshots/f4w_android2.png" height="500"/>
 </p>
 
 ### 📱 Android Tablets
@@ -21,8 +21,8 @@ This repository is a showcase of the app's UI and features.
 
 ### 🍏 iPhone / iPad
 <p align="center">
-  <img src="Screenshots/f4w_iphone.png" width="320"/>
-  <img src="Screenshots/f4w_ipad.png" width="420"/>
+  <img src="Screenshots/f4w_iphone.png" height="500"/>
+  <img src="Screenshots/f4w_ipad.png" height="500"/>
 </p>
 
 ### 💻🍏🐧 Desktop (Mac / Windows)
